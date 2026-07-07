@@ -12,5 +12,5 @@ Java, Python, SQL, AWS, Cloudflare
 I like making projects in TouchDesigner, sewing, bartending, or playing guitar in my free time.
 
 
-<img width="255" height="200" alt="image" src="https://github.com/user-attachments/assets/335fe80f-443e-4b65-9dc0-3f671ac59b89" />
+<img width="155" height="100" alt="image" src="https://github.com/user-attachments/assets/335fe80f-443e-4b65-9dc0-3f671ac59b89" />
 
